@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vivek Parmar</h1>
-<h3 align="center">A passionate frontend Highly motivated & skilled Computer Engineering student with a passion for building world-class software solutions for organizations. I take problems as challenges and try to solve them using technology. My area of interest is Cloud Computing and I want to help industries in scaling their businesses using the power of cloud. I am a quick learner and have strong leadership skills. developer from India</h3>
+<h3 align="center">Highly motivated & skilled Computer Engineering student with a passion for building world-class software solutions for organizations. I take problems as challenges and try to solve them using technology. My area of interest is Cloud Computing and I want to help industries in scaling their businesses using the power of cloud. I am a quick learner and have strong leadership skills. developer from India</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=vp393001 alt=vp393001/> </p>
 
 - 🔭 I’m currently working on **Cloud**
